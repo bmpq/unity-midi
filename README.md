@@ -1,6 +1,14 @@
 # unity-midi
 Play SMF (Standard MIDI File) on Unity.
 
+## Package Installation:
+1. Open UPM: "Window/Package Manager"
+2. Click "+" button at the top left
+3. Select "Add package from git URL" and paste following URL:
+```
+https://github.com/bmpq/unity-midi.git?path=/Assets/UnityMidi
+```
+
 ## Overview
 A pure C# MIDI library ([C# Synth Project](https://csharpsynthproject.codeplex.com/))
 worked well on Unity with slight modifications.

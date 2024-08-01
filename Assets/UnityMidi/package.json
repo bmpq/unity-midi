@@ -1,0 +1,10 @@
+{
+	"name": "com.n-yoda.unity-midi",
+	"displayName": "unity-midi",
+	"version": "1.0.0",
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/bmpq/unity-midi",
+	    "revision": "master"
+	}
+}
